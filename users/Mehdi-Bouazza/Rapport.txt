@@ -1,0 +1,7 @@
+3.4) git config --global user.name "Mehdi Bouazza"
+     git config --global user.email mbouazzapro@gmail.com
+
+5.3) Le commit s'effectue automatiquement sur la branche main
+Checksum: 7c15ee4
+file changed = 1
+0 insertions, 0 deletions
