@@ -1,5 +1,7 @@
 First commit file_1.txt
 
-Second commit file_1.txt
+
+Second commit of file_1.txt
+
 
 Another commit
