@@ -5,3 +5,7 @@
 Checksum: 7c15ee4
 file changed = 1
 0 insertions, 0 deletions
+
+6.2) diff file1.txt file2.txt
+
+7.3) Après la commande git checkout -- on se retrouve en avance d'1 commit par rapport a la branche main car les modifications n'ont pas encore été push
