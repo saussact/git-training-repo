@@ -1,0 +1,86 @@
+DA COSTA
+Nicolas
+Master Logiciel
+
+Git
+
+Définir le nom d'utilisateur
+git config --global user.name [name]
+
+Définir le mail
+git config --global user.email [mail]
+
+Afficher la configuration de Git
+git config --list
+
+Afficher l'état du répertoire courant
+git status
+
+Ajouter les modifications sur un ou plusieurs fichier(s) à l'environnement de staging
+git add [file]
+
+Ajouter un commit comportant les modifications dans l'environnement de staging
+git commit
+
+Afficher le détail des modifications depuis le dernier commit
+git diff
+
+Ecraser le dernier commit
+git commit --amend
+
+Afficher l'historique des commits
+git log
+
+Afficher les détails d'un commit
+git show [commit]
+
+Remettre un fichier dans son état au précédent commit
+git checkout -- [file]
+
+Enlever une modification de l'environnement de staging
+git reset
+
+Cloner un repository en ligne
+git clone [repo]
+
+Récupérer les informations sur le repo en ligne
+git fetch
+
+Afficher l'historique des commits avec des commit d'une ligne et un graphe
+git log --graph --oneline --all --decorate
+
+Créer un alias pour une commande git
+git config --global alias.[alias] [command]
+
+Récupérer les infos sur le repos en ligne et les fusionnés avec le repo local
+git pull
+
+Envoyer les informations du repo local en ligne
+git push
+
+Créer une branche depuis la branch courante
+git branch [new_branch]
+
+Afficher toutes les branches
+git branch -a
+
+Changer de branche
+git checkout [branch]
+
+Fusionner deux branches avec un commit
+git merge [branch]
+
+Supprimer une branche
+git branch -D [branch]
+
+Créer une branche et se déplacer dedans
+git checkout -b
+
+Les conflits de fusions se produisent lorsqu'on essaye de fusionner deux branches qui modifient le même fichier
+
+Déplacer une branche à la tête d'une autre branche
+git rebase [branch]
+
+Réorganiser une branche
+git rebase -i
+
