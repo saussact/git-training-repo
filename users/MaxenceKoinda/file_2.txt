@@ -1,3 +1,0 @@
-Modification du file_2.txt
-
-Nouvelle modification du file_2.txt
