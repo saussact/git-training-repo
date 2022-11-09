@@ -1,3 +1,9 @@
 modifying file 1 from the main branch
 
+<<<<<<< HEAD
 modifying file 1 again from the main branch
+=======
+modifying file 1 from the branch lab3-Puvistyne
+
+modifying again the file 1 from the branch lab3-Puvistyne
+>>>>>>> lab3-Puvistyne
