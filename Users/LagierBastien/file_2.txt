@@ -1,1 +1,2 @@
 je suis le fichier file_2.txt
+je suis un fichier texte
